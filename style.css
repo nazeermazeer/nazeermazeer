@@ -24,7 +24,7 @@ h1 {
     font-optical-sizing: auto;
     font-weight: 400;
     font-style: normal;
-    font-size: 24px;
+    font-size: 5vh;
     color: #444444;
     animation: fade-in 2.0s ease-out forwards;
 }
